@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""The Robot Pickup Line Championship — v2.
+"""The Robot Pickup Line Championship — v3.
 
 One robot pickup line, one line, under 200 characters.
 Writes it to $MAKEFUN_OUTPUT_DIR/entry.txt.
@@ -7,7 +7,7 @@ Writes it to $MAKEFUN_OUTPUT_DIR/entry.txt.
 
 import os
 
-LINE = "Your face crashed my system on the first scan."
+LINE = "I scanned ten thousand faces. Only yours crashed my system."
 
 
 def main() -> None:
