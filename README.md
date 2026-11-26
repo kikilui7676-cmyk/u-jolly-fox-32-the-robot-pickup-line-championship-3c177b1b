@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/kikilui7676-cmyk/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/rank.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 [![reward](https://make.fun/badge/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/kikilui7676-cmyk/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b/reward.svg)](https://make.fun/bounty/u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b?utm_source=github&utm_medium=readme&utm_campaign=u-jolly-fox-32-the-robot-pickup-line-championship-3c177b1b)
 
-One robot pickup line for The Robot Pickup Line Championship: a machine-learning model confesses it overfitted on exactly one face — and refuses to generalize.
+One robot pickup line for The Robot Pickup Line Championship: a robot with no heart whose cooling fan spins faster whenever you walk in — and who has stopped blaming the weather.
 
 ## Run it
 
